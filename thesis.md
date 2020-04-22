@@ -1,2 +1,2 @@
 # My great thesis
-Author: Eva Goossens
+Author: Eva C. Goossens
